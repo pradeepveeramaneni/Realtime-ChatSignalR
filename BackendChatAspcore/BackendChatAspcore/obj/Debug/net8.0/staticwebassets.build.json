@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4iv13zwvRIInXS2XnNmJaf5NB61ML3kDxVSUrgVOgOg=",
+  "Source": "BackendChatAspcore",
+  "BasePath": "_content/BackendChatAspcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
